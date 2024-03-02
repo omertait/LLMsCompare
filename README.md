@@ -10,3 +10,14 @@ The LLM Comparison Tool is a Python-based application designed to evaluate and c
 - **LLM Judge**: Employs a separate LLM to judge the quality of answers based on criteria like accuracy and relevance.
 - **Performance Metrics**: Measures response time, accuracy, relevance, and coherence of LLM answers.
 - **Visualization**: Utilizes libraries like `matplotlib` for visualizing the comparison results.
+
+![image](https://github.com/omertait/LLMsCompare/assets/120312961/d90f2a3a-7f94-49ea-a610-99234db7dd30)
+
+![image](https://github.com/omertait/LLMsCompare/assets/120312961/a150c594-6019-4ffb-82e9-939044dfbb60)
+
+![image](https://github.com/omertait/LLMsCompare/assets/120312961/d39564a0-8acc-4a29-ab59-a7712a0e7e00)
+
+![image](https://github.com/omertait/LLMsCompare/assets/120312961/9e8e931c-2ea3-411f-a82b-0f51fa481b6e)
+
+![image](https://github.com/omertait/LLMsCompare/assets/120312961/71791599-e4a5-411e-8052-f8baee7567c2)
+
